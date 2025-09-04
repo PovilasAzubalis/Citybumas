@@ -1,0 +1,146 @@
+html {
+    scroll-behavior: smooth;
+}
+body {
+    background: black;
+}
+.vl {
+    height: 20px;
+    border-left: 1px solid white;
+    margin-top: 12px;
+}
+#logout {
+    margin-left: 10px;
+}
+.form-control {
+    margin-right:10px;
+}
+.nav-item-right {
+    color: white;
+    text-decoration: none;
+    margin-right: 8px;
+    margin-left: 8px;
+    margin-top: 5px;
+}
+.jumbotron {
+    padding-top: 15px;
+    padding-bottom: 10px;
+    background-color: #000000;
+    background-image: linear-gradient(180deg, #000000 30%, #04619f 100%);
+    border-radius: 0px;
+    align-content: center;
+    align-items: center;
+}
+.jumbotron-new {
+    align-content: center;
+    background-color: #000000;
+    background-image: linear-gradient(360deg, #000000 0%, #04619f 100%);
+}
+#carouselList {
+    align-content: center;
+    align-self: center;
+    margin-left: auto;
+    margin-right: auto;
+}
+#myNavbar {
+    margin-top: 0;
+
+}
+.carousel-item {
+    width: 100%;
+    height: auto;
+}
+.footer-container {
+    position: relative;
+    margin-bottom: 0;
+    width: 100%;
+    height: 60px;
+    line-height: 60px;
+    background: #333333;
+    color: white;
+    text-align: center;
+}
+.fa-facebook-square {
+    font-size: 25px;
+    float: right;
+    margin-top: -80px;
+    margin-right: -100px;
+    color: white;
+}
+.fa-facebook-square:hover {
+    opacity: 0.7;
+    cursor: pointer;
+}
+.fa-instagram {
+    font-size: 25px;
+    float: right;
+    margin-top: -80px;
+    margin-right: -140px;
+    color: white;
+}
+.fa-instagram:hover {
+    opacity: 0.7;
+    cursor: pointer;
+}
+.fa-twitter-square {
+    font-size: 25px;
+    float: right;
+    margin-top: -80px;
+    margin-right: -180px;
+    color: white;
+}
+.fa-twitter-square:hover {
+    opacity: 0.7;
+    cursor: pointer;
+}
+.fa-music {
+    font-size: 25px;
+    float: left;
+    margin-left: -180px;
+    color: white;
+}
+.fa-music:hover {
+    opacity: 0.7;
+    cursor: pointer;
+}
+.contact {
+    float: left;
+    margin-left: -145px;
+    margin-top: -11px;
+}
+.fa-phone-square {
+    font-size: 25px;
+    float: left;
+    margin-left: -180px;
+    margin-top: -8px;
+    color: white;
+}
+.fa-phone-square:hover {
+    opacity: 0.7;
+    cursor: pointer;
+}
+#shop-button {
+    text-align: center;
+}
+#shop-btn {
+    height: 120px;
+    width: 380px;
+    border: solid white 1px;
+    border-radius: 10px;
+    color: white;
+    background: linear-gradient(to left, white 50%, black 50%);
+    background-size: 200% 100%;
+    background-position: left bottom;
+    transition: all .75s ease;
+    margin-bottom: 20px;
+    font-size: 60px;
+}
+#shop-btn:hover {
+    background-position: right bottom;
+}
+.shop-text {
+    color: white;
+}
+.shop-text:hover {
+    color: black;
+}

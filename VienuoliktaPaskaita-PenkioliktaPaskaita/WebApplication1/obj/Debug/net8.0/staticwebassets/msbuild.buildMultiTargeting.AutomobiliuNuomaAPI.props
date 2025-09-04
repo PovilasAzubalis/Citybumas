@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\AutomobiliuNuomaAPI.props" />
+</Project>
