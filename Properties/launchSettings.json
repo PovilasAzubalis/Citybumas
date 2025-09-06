@@ -4,7 +4,7 @@
     "windowsAuthentication": false,
     "anonymousAuthentication": true,
     "iisExpress": {
-      "applicationUrl": "http://localhost:36486",
+      "applicationUrl": "http://citybumasinfo.city",
       "sslPort": 44307
     }
   },
@@ -22,7 +22,7 @@
       "commandName": "Project",
       "dotnetRunMessages": true,
       "launchBrowser": true,
-      "applicationUrl": "https://citybumasinfo.city;http://citybumasinfo.city",
+      "applicationUrl": "https://citybumasinfo.city;https://citybumasinfo.city",
       "environmentVariables": {
         "ASPNETCORE_ENVIRONMENT": "Development"
       }
